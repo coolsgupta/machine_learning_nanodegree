@@ -35,5 +35,4 @@ ohe.fit(X)
 # TODO: Apply the OneHotEncoder's fit_transform function to all of X, which will
 #       first learn of all the (now numerical) labels in the data (fit), and then
 #       change the data to one-hot encoded entries (transform).
-xt = ohe.transform(X)
-onehotlabels = xt
+onehotlabels = ohe.transform(X)
