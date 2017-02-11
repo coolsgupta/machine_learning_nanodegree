@@ -41,7 +41,7 @@ print "Decision Tree has accuracy: ",accuracy_score(y, clf1.predict(x_test))
 # The naive Bayes classifier
 
 clf2 = GaussianNB()
-clf2.fit(x_train,y_train\)
+clf2.fit(x_train,y_train)
 print "GaussianNB has accuracy: ",accuracy_score(y, clf2.predict(x_test))
 
 answer = {
