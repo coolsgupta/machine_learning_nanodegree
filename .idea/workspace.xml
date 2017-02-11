@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_1/evaluation_metrics/mean_absolute_error.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_1/evaluation_metrics/mean_squared_error.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,11 +66,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mean_absolute_error.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mean_absolute_error.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/mean_absolute_error.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
               <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mean_squared_error.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/mean_squared_error.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -114,6 +126,7 @@
         <option value="$PROJECT_DIR$/project_1/evaluation_metrics/precision_vs_recall.py" />
         <option value="$PROJECT_DIR$/project_1/evaluation_metrics/compute_F1_score.py" />
         <option value="$PROJECT_DIR$/project_1/evaluation_metrics/mean_absolute_error.py" />
+        <option value="$PROJECT_DIR$/project_1/evaluation_metrics/mean_squared_error.py" />
       </list>
     </option>
   </component>
@@ -514,6 +527,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/mean_squared_error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
