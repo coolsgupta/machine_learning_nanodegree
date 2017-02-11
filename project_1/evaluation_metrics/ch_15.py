@@ -27,11 +27,11 @@ x_train, x_test, y_train, y_test = train_test_split(X,y,test_size=0.25, random_s
 
 clf1 = DecisionTreeClassifier()
 clf1.fit(x_train,y_train)
-print "Confusion matrix for this Decision Tree:\n",confusion_matrix(y,clf1.predict(x_test))
+print "Confusion matrix for this Decision Tree:\n",confusion_matrix(y_test,clf1.predict(x_test))
 
 clf2 = GaussianNB()
 clf2.fit(x_train,y_train)
-print "GaussianNB confusion matrix:\n",confusion_matrix(y,clf2.predict(x_test))
+print "GaussianNB confusion matrix:\n",confusion_matrix(y_test,clf2.predict(x_test))
 
 #TODO: store the confusion matrices on the test sets below
 

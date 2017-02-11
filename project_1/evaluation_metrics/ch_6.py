@@ -37,12 +37,12 @@ x_train, x_test, y_train, y_test = train_test_split(X,Y,test_size=0.4, random_st
 # The decision tree classifier
 clf1 = DecisionTreeClassifier()
 clf1.fit(x_train,y_train)
-print "Decision Tree has accuracy: ",accuracy_score(y, clf1.predict(x_test))
+print "Decision Tree has accuracy: ",accuracy_score(y_test, clf1.predict(x_test))
 # The naive Bayes classifier
 
 clf2 = GaussianNB()
 clf2.fit(x_train,y_train)
-print "GaussianNB has accuracy: ",accuracy_score(y, clf2.predict(x_test))
+print "GaussianNB has accuracy: ",accuracy_score(y_test, clf2.predict(x_test))
 
 answer = {
  "Naive Bayes Score": 0,
