@@ -86,3 +86,4 @@ if True:
     print np.mean(array_2)
     print ""
     print np.dot(array_1, array_2)
+    print np.max(array_1)
