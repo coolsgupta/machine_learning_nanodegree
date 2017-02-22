@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_2/extracting_info_from_regressor" afterPath="$PROJECT_DIR$/project_2/extracting_info_from_regressor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_2/sleep_and_grades_regression.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +18,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="extracting_info_from_regressor" pinned="false" current-in-tab="true">
+      <file leaf-file-name="extracting_info_from_regressor" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project_2/extracting_info_from_regressor">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="367">
               <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sleep_and_grades_regression.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project_2/sleep_and_grades_regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="49" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -57,6 +68,7 @@
         <option value="$PROJECT_DIR$/project_1/error and complexity/GridSeaarchCV.txt" />
         <option value="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_1.py" />
         <option value="$PROJECT_DIR$/project_2/extracting_info_from_regressor" />
+        <option value="$PROJECT_DIR$/project_2/sleep_and_grades_regression.py" />
       </list>
     </option>
   </component>
@@ -115,6 +127,9 @@
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LinearAlgebraRefresher" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -302,13 +317,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project_1/error and complexity/GridSeaarchCV.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -620,6 +628,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
           <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_2/sleep_and_grades_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="54" />
           <folding />
         </state>
       </provider>
