@@ -19,7 +19,7 @@ reg.fit(ages_train, net_worths_train)
 ### argument to your prediction function is in the expected format - if you get
 ### a warning about needing a 2d array for your data, a list of lists will be
 ### interpreted by sklearn as such (e.g. [[27]]).
-km_net_worth = 1.0 ### fill in the line of code to get the right value
+km_net_worth = reg.predict([[27]]) ### fill in the line of code to get the right value
 
 ### get the slope
 ### again, you'll get a 2-D array, so stick the [0][0] at the end
