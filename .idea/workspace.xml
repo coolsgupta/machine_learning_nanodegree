@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_2/decison trees/checking_accuracy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_2/decison trees/different_min_samples_split.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +28,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="checking_accuracy.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="checking_accuracy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project_2/decison trees/checking_accuracy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="498">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="different_min_samples_split.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project_2/decison trees/different_min_samples_split.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="29" column="65" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="71" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -74,6 +86,7 @@
         <option value="$PROJECT_DIR$/project_2/polynomial_regression.py" />
         <option value="$PROJECT_DIR$/project_2/decison trees/creating_DT_clf.py" />
         <option value="$PROJECT_DIR$/project_2/decison trees/checking_accuracy.py" />
+        <option value="$PROJECT_DIR$/project_2/decison trees/different_min_samples_split.py" />
       </list>
     </option>
   </component>
@@ -340,13 +353,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -660,8 +666,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project_2/decison trees/checking_accuracy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="498">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_2/decison trees/different_min_samples_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="29" column="65" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="71" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
