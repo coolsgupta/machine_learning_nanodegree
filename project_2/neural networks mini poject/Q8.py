@@ -10,5 +10,7 @@ for i in range(0,len(hidden_weights)):
     x = np.dot(inputs,hidden_weights[i].T)
     print (x)
     hidden_thetas.append(x)
+
+print
 output = np.dot(hidden_thetas,output_weights)
 print(output)
