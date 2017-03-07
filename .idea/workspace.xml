@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_2/neural networks mini poject/Q17_sigmoid_programming.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_2/neural networks mini poject/Q17_sigmoid_programming.py" afterPath="$PROJECT_DIR$/project_2/neural networks mini poject/Q17_sigmoid_programming.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py" afterPath="$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,18 +21,18 @@
       <file leaf-file-name="Q1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
+            <state relative-caret-position="306">
               <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q6.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Q6.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1276">
-              <caret line="58" column="24" lean-forward="false" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+            <state relative-caret-position="416">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,7 +51,7 @@
       <file leaf-file-name="Q9_XORnetwork.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q9_XORnetwork.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1276">
+            <state relative-caret-position="650">
               <caret line="58" column="7" lean-forward="false" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
               <folding />
             </state>
@@ -68,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q17_sigmoid_programming.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Q17_sigmoid_programming.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q17_sigmoid_programming.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-794">
-              <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+            <state relative-caret-position="900">
+              <caret line="95" column="48" lean-forward="true" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -115,12 +115,12 @@
         <option value="$PROJECT_DIR$/project_2/decison trees/different_min_samples_split.py" />
         <option value="$PROJECT_DIR$/project_2/neural networks mini poject/1" />
         <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q1.py" />
-        <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py" />
         <option value="$PROJECT_DIR$/project_2/neural networks mini poject/test.py" />
         <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q8.py" />
         <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q9_XORnetwork.py" />
         <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q12.py" />
         <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q17_sigmoid_programming.py" />
+        <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py" />
       </list>
     </option>
   </component>
@@ -667,22 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="58" column="24" lean-forward="false" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -691,9 +675,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q9_XORnetwork.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
+        <state relative-caret-position="650">
           <caret line="58" column="7" lean-forward="false" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
           <folding />
         </state>
@@ -709,8 +701,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q17_sigmoid_programming.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-794">
-          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        <state relative-caret-position="900">
+          <caret line="95" column="48" lean-forward="true" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>

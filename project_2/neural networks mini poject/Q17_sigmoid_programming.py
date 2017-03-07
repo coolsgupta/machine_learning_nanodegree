@@ -31,7 +31,7 @@ class Sigmoid:
         self.last_input = 0  # strength of last input
         self.delta = 0  # error signal
 
-    
+
     def logistic_func(self,strength):
         return 1/(1+np.exp(-strength))
 

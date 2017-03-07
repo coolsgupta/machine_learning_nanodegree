@@ -54,9 +54,7 @@ class Perceptron:
         for x,y in zip(values,train):
             yp = self.activate(x)
         # TODO: update self.weights based on prediction accuracy, learning
-            for xi,wi in zip(x,self.weights):
-                dw = eta*(y-yp)*xi
-                wi += dw
+            self.weights += eta*(y - yp)*x
 
         # rate and input value
 
