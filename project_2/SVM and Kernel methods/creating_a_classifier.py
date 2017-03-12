@@ -22,7 +22,7 @@ clf = SVC(kernel="linear")
 #    decision_function_shape=None, degree=3, gamma='auto', kernel='rbf',
 #    max_iter=-1, probability=False, random_state=None, shrinking=True,
 #    tol=0.001, verbose=False)
-
+#svc documentation : http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC
 
 #### now your job is to fit the classifier
 #### using the training features/labels, and to
