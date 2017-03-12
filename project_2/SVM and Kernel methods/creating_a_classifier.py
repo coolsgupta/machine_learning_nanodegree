@@ -17,6 +17,12 @@ features_train, labels_train, features_test, labels_test = makeTerrainData()
 from sklearn.svm import SVC
 clf = SVC(kernel="linear")
 
+#default params
+#SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+#    decision_function_shape=None, degree=3, gamma='auto', kernel='rbf',
+#    max_iter=-1, probability=False, random_state=None, shrinking=True,
+#    tol=0.001, verbose=False)
+
 
 #### now your job is to fit the classifier
 #### using the training features/labels, and to
