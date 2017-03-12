@@ -24,6 +24,8 @@ clf = SVC(kernel="linear")
 #    tol=0.001, verbose=False)
 #svc documentation : http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC
 #svm doc : http://scikit-learn.org/stable/modules/svm.html
+#gamma , C are directly proportional to better classification of training points ie more complex decison boundary,
+#however higher complexy of decison boundary may not mean better generalization
 
 #### now your job is to fit the classifier
 #### using the training features/labels, and to
