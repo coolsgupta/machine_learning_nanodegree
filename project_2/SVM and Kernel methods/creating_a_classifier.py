@@ -36,3 +36,5 @@ acc = accuracy_score(pred, labels_test)
 
 def submitAccuracy():
     return acc
+
+#accuracy is 0.92 in this case
