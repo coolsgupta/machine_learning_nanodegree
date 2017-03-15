@@ -20,7 +20,7 @@ def NBAccuracy(features_train, labels_train, features_test, labels_test):
     ### import the sklearn module for GaussianNB
     from sklearn.naive_bayes import GaussianNB
 
-    ### create classifier
+    ### create la
     clf = GaussianNB()
 
     ### fit the classifier on the training features and labels
@@ -35,4 +35,7 @@ def NBAccuracy(features_train, labels_train, features_test, labels_test):
     ### where we just print the accuracy
     ### you might need to import an sklearn module
     accuracy = clf.score(features_test,labels_test)
+    #or
+    from sklearn.metrics import accuracy_score
+    accuracy = accuracy_score(pred,labels_test)
     return accuracy
