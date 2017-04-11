@@ -19,5 +19,14 @@ Hello Peter, whats happening? Ummm, I'm gonna need you to go ahead and come in t
 #   Just use .split() to split the sample_memo text into words separated by spaces.
 
 def NextWordProbability(sampletext, word):
-    list = sampletext.split(" ")
-    return list
+    wordlist = sampletext.split()
+    if word in wordlist:
+        indices = (i+1 for i,x in enumerate(wordlist) if x==word)
+    words_following = (wordlist[i] for i in indices)
+    wordcount = {}
+    for fword in words_following:
+        if fword in wordcount:
+            wordcount[fword] += 1
+        else:
+            wordcount[fword] = 1
+    return wordcount
