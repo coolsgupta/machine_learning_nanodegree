@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="" />
+    <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/error and complexity/GridSeaarchCV.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project_1/error and complexity/GridSeaarchCV.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/machine_learning_nanodegree.iml" afterPath="$PROJECT_DIR$/.idea/machine_learning_nanodegree.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/error and complexity/noisy data" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/error and complexity/noisy data" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/error and complexity/quadratic_data.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/error and complexity/quadratic_data.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/evaluation_metrics/ch_15.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/ch_15.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/evaluation_metrics/ch_6.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/ch_6.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/evaluation_metrics/compute_F1_score.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/compute_F1_score.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/evaluation_metrics/mean_absolute_error.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/mean_absolute_error.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/evaluation_metrics/mean_squared_error.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/mean_squared_error.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/evaluation_metrics/precision_vs_recall.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/precision_vs_recall.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_1.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_2.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_3.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_4.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_4.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_5.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_5.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_6.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_6.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_7.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_7.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_8.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_8.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/sklearn_tutorial/cross_validation_eg.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/sklearn_tutorial/cross_validation_eg.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_1/sklearn_tutorial/eg_1.py" afterPath="$PROJECT_DIR$/Model_Evaluation_and_Validation/sklearn_tutorial/eg_1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/SVM and Kernel methods/creating_a_classifier.py" afterPath="$PROJECT_DIR$/Supervised_Learning/SVM and Kernel methods/creating_a_classifier.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/census.csv" afterPath="$PROJECT_DIR$/Supervised_Learning/census.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/decison trees/checking_accuracy.py" afterPath="$PROJECT_DIR$/Supervised_Learning/decison trees/checking_accuracy.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/decison trees/creating_DT_clf.py" afterPath="$PROJECT_DIR$/Supervised_Learning/decison trees/creating_DT_clf.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/decison trees/different_min_samples_split.py" afterPath="$PROJECT_DIR$/Supervised_Learning/decison trees/different_min_samples_split.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/naive bayes/bayes NLP mini project/maximum_likelihood" afterPath="$PROJECT_DIR$/Supervised_Learning/naive bayes/bayes NLP mini project/maximum_likelihood" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/naive bayes/bayes NLP mini project/optimal_classifier.py" afterPath="$PROJECT_DIR$/Supervised_Learning/naive bayes/bayes NLP mini project/optimal_classifier.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/naive bayes/creating_the_GNB_clf.py" afterPath="$PROJECT_DIR$/Supervised_Learning/naive bayes/creating_the_GNB_clf.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/neural networks mini poject/Q1.py" afterPath="$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/neural networks mini poject/Q12.py" afterPath="$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q12.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/neural networks mini poject/Q17_sigmoid_programming.py" afterPath="$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q17_sigmoid_programming.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py" afterPath="$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q6.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/neural networks mini poject/Q8.py" afterPath="$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q8.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/neural networks mini poject/Q9_XORnetwork.py" afterPath="$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q9_XORnetwork.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/regression/extracting_info_from_regressor" afterPath="$PROJECT_DIR$/Supervised_Learning/regression/extracting_info_from_regressor" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/regression/polynomial_regression.py" afterPath="$PROJECT_DIR$/Supervised_Learning/regression/polynomial_regression.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/regression/sleep_and_grades_regression.py" afterPath="$PROJECT_DIR$/Supervised_Learning/regression/sleep_and_grades_regression.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project_2/test.py" afterPath="$PROJECT_DIR$/Supervised_Learning/test.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,88 +56,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="maximum_likelihood" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_2/naive bayes/bayes NLP mini project/maximum_likelihood">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="20" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="31" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="optimal_classifier.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_2/naive bayes/bayes NLP mini project/optimal_classifier.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="18" lean-forward="false" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_2/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="creating_DT_clf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_2/decison trees/creating_DT_clf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ch_6.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/ch_6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="creating_the_GNB_clf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_2/naive bayes/creating_the_GNB_clf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="19" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="40" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eg_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1496">
-              <caret line="88" column="25" lean-forward="false" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -122,7 +83,6 @@
         <option value="$PROJECT_DIR$/project_1/evaluation_metrics/mean_squared_error.py" />
         <option value="$PROJECT_DIR$/project_1/error and complexity/noisy data" />
         <option value="$PROJECT_DIR$/project_1/error and complexity/quadratic_data.py" />
-        <option value="$PROJECT_DIR$/project_1/error and complexity/GridSeaarchCV.txt" />
         <option value="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_1.py" />
         <option value="$PROJECT_DIR$/project_2/extracting_info_from_regressor" />
         <option value="$PROJECT_DIR$/project_2/sleep_and_grades_regression.py" />
@@ -143,14 +103,15 @@
         <option value="$PROJECT_DIR$/project_2/naive bayes/bayes NLP mini project/maximum_likelihood" />
         <option value="$PROJECT_DIR$/project_2/naive bayes/bayes NLP mini project/optimal_classifier.py" />
         <option value="$PROJECT_DIR$/project_2/test.py" />
+        <option value="$PROJECT_DIR$/project_1/error and complexity/GridSeaarchCV.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -170,7 +131,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,7 +143,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="project_2" />
+              <option name="myItemId" value="Unsupervised_Learning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -194,74 +154,17 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="machine_learning_nanodegree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="naive bayes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning_nanodegree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning_nanodegree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="decison trees" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning_nanodegree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning_nanodegree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning_nanodegree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning_nanodegree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="evaluation_metrics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zed_shaw_exercises" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -272,6 +175,18 @@
       <recent name="C:\Users\sachin\PycharmProjects\machine_learning_nanodegree\project_1" />
       <recent name="C:\Users\sachin\PycharmProjects\machine_learning_nanodegree\project_" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -289,6 +204,7 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -301,25 +217,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="machine_learning_nanodegree" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="machine_learning_nanodegree" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -351,15 +248,10 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="machine_learning_nanodegree" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -372,19 +264,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="machine_learning_nanodegree" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="machine_learning_nanodegree" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -401,11 +302,6 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
   </component>
@@ -426,26 +322,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20497803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1453125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3438486" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22832052" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -456,63 +352,63 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/ch_15.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/ch_15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/sklearn_tutorial/cross_validation_eg.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/sklearn_tutorial/cross_validation_eg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
           <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/ch_6.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/ch_6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="946">
           <caret line="43" column="24" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/ch_15.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/ch_15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/sklearn_tutorial/cross_validation_eg.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/sklearn_tutorial/cross_validation_eg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
           <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/ch_6.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/ch_6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="924">
           <caret line="43" column="24" lean-forward="false" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/ch_15.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/ch_15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/sklearn_tutorial/cross_validation_eg.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/sklearn_tutorial/cross_validation_eg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/sklearn_tutorial/cross_validation_eg.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/sklearn_tutorial/cross_validation_eg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -525,262 +421,255 @@
     <entry file="file://$PROJECT_DIR$/ud120-projects/tools/feature_format.py" />
     <entry file="file://$PROJECT_DIR$/ud120-projects/final_project/poi_names.txt" />
     <entry file="file://$PROJECT_DIR$/ud120-projects/final_project/poi_email_addresses.py" />
-    <entry file="file://$PROJECT_DIR$/project_1/sklearn_tutorial/cross_validation_eg.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/sklearn_tutorial/cross_validation_eg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/ch_15.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/ch_15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/precision_vs_recall.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/precision_vs_recall.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
           <caret line="34" column="2" lean-forward="false" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/mean_absolute_error.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/mean_absolute_error.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/mean_squared_error.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/mean_squared_error.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/error and complexity/noisy data">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/error and complexity/noisy data">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/error and complexity/quadratic_data.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/error and complexity/quadratic_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/error and complexity/GridSeaarchCV.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_3.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_5.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_4.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_6.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_7.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_8.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/compute_F1_score.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/compute_F1_score.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_2.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/regression/polynomial_regression.py">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/regression/polynomial_regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/regression/sleep_and_grades_regression.py">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/regression/sleep_and_grades_regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
           <caret line="49" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/regression/extracting_info_from_regressor">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/regression/extracting_info_from_regressor">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/decison trees/checking_accuracy.py">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/decison trees/checking_accuracy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/decison trees/different_min_samples_split.py">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/decison trees/different_min_samples_split.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q1.py">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
           <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q8.py">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q9_XORnetwork.py">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q9_XORnetwork.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="58" column="7" lean-forward="false" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q12.py">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q17_sigmoid_programming.py">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q17_sigmoid_programming.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="95" column="48" lean-forward="false" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/SVM and Kernel methods/creating_a_classifier.py">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/SVM and Kernel methods/creating_a_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="626">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/sklearn_tutorial/eg_1.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/sklearn_tutorial/eg_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="21" column="60" lean-forward="false" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/naive bayes/bayes NLP mini project/maximum_likelihood">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="20" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="31" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/naive bayes/bayes NLP mini project/optimal_classifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="18" lean-forward="false" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="231">
           <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/naive bayes/creating_the_GNB_clf.py">
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/naive bayes/creating_the_GNB_clf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="840">
           <caret line="40" column="19" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="40" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_1.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/numpy_and_pandas_tutorial/eg_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
+        <state relative-caret-position="1848">
           <caret line="88" column="25" lean-forward="false" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/test.py">
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/ch_6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_2/decison trees/creating_DT_clf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_1/evaluation_metrics/ch_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
+        <state relative-caret-position="546">
           <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/decison trees/creating_DT_clf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/naive bayes/bayes NLP mini project/optimal_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="64" column="18" lean-forward="false" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supervised_Learning/naive bayes/bayes NLP mini project/maximum_likelihood">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="31" column="20" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/error and complexity/GridSeaarchCV.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
