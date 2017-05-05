@@ -1,0 +1,5 @@
+scikit learn clustering link
+http://scikit-learn.org/stable/modules/clustering.html
+
+visualization for k means clustering
+https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
