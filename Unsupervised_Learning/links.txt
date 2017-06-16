@@ -1,0 +1,11 @@
+scikit learn clustering link
+http://scikit-learn.org/stable/modules/clustering.html
+
+visualization for k means clustering
+https://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+
+data preprocessing
+http://scikit-learn.org/stable/modules/preprocessing.html
+
+feature scaling in sklearn (MinMaxScaler)
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html#sklearn.preprocessing.MinMaxScaler
