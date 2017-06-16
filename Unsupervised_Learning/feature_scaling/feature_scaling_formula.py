@@ -6,12 +6,13 @@
 ### but think about this for a second--that means that every
 ### data point has the same value for that feature!
 ### why would you rescale it?  Or even use it at all?
+
+
 def featureScaling(arr):
     min_arr = min(arr)
     max_arr = max(arr)
     diff = max_arr - min_arr
-    scalled_arr = (((x - min_arr)/diff) for x in arr)
-
+    scalled_arr = [(float(x-min_arr)/diff) for x in arr]
     return scalled_arr
 
 # tests of your feature scaler--line below is input data
