@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/data.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/logistic_regression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/solution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_steps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/logistic_regression_algorithm/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/perceptron_algorithm/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Deep_Learning/cross_entropy.py" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/cross_entropy.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/data.csv" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/logistic_regression_algorithm/data.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/logistic_regression.py" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/logistic_regression_algorithm/logistic_regression.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/solution.py" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/logistic_regression_algorithm/solution.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Deep_Learning/perceptron_algorithm/data.csv" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/perceptron_algorithm/data.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Deep_Learning/perceptron_algorithm/perceptron.py" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/perceptron_algorithm/perceptron.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Deep_Learning/perceptron_algorithm/solution.py" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/perceptron_algorithm/solution.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Deep_Learning/perceptron_as_logical_operators_and.py" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/perceptron_as_logical_operators_and.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Deep_Learning/perceptron_as_logical_operators_not.py" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/perceptron_as_logical_operators_not.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Deep_Learning/softmax.py" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/softmax.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,20 +33,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="logistic_regression.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/logistic_regression.py">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/logistic_regression_algorithm/logistic_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="38" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+            <state relative-caret-position="798">
+              <caret line="38" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/solution.py">
+      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/logistic_regression_algorithm/solution.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
               <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keras_steps.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_steps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,7 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ud120-projects/datasets_questions/sample" />
         <option value="$PROJECT_DIR$/ud120-projects/datasets_questions/explore_enron_data.py" />
         <option value="$PROJECT_DIR$/project_1/sklearn_tutorial/cross_validation_eg.py" />
         <option value="$PROJECT_DIR$/project_1/evaluation_metrics/ch.py" />
@@ -106,6 +127,7 @@
         <option value="$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/data.csv" />
         <option value="$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/solution.py" />
         <option value="$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/logistic_regression.py" />
+        <option value="$PROJECT_DIR$/Deep_Learning/keras_steps.py" />
       </list>
     </option>
   </component>
@@ -133,7 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -160,27 +181,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning_nanodegree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine_learning_nanodegree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Deep_Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="logistic_regression_algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,11 +193,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\programming\pycahrmProjects\machine_learning_nanodegree\Deep_Learning\Deep_neural_networks" />
       <recent name="D:\programming\pycahrmProjects\machine_learning_nanodegree\Unsupervised_Learning" />
       <recent name="C:\Users\sachin\PycharmProjects\machine_learning_nanodegree\project_2" />
       <recent name="C:\Users\sachin\PycharmProjects\machine_learning_nanodegree\project_2\" />
       <recent name="C:\Users\sachin\PycharmProjects\machine_learning_nanodegree\project_2\regression" />
-      <recent name="C:\Users\sachin\PycharmProjects\machine_learning_nanodegree\project_1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -345,14 +349,14 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14479166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24259056" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24259056" sideWeight="0.49583334" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24698134" sideWeight="0.49583334" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -373,20 +377,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/ch_15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/error and complexity/noisy data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/error and complexity/quadratic_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -637,9 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="805">
           <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding>
-            <element signature="e#489#510#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -647,11 +634,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/perceptron_as_logical_operators_and.py">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/perceptron_as_logical_operators_and.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
@@ -659,7 +645,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/perceptron_as_logical_operators_not.py">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/perceptron_as_logical_operators_not.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
@@ -667,15 +653,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/perceptron_algorithm/data.csv">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/perceptron_algorithm/data.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
           <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/perceptron_algorithm/perceptron.py">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/perceptron_algorithm/perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
@@ -683,7 +668,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/softmax.py">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/softmax.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
@@ -691,15 +676,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/gradient_calculation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/cross_entropy.py">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/gradient_calculation.txt" />
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/cross_entropy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
@@ -707,7 +685,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/perceptron_algorithm/solution.py">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/perceptron_algorithm/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
@@ -715,26 +693,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/data.csv">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/logistic_regression_algorithm/data.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="84" column="16" lean-forward="true" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/logistic_regression.py">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/logistic_regression_algorithm/logistic_regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="38" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        <state relative-caret-position="798">
+          <caret line="38" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/logistic_regression_algorithm/solution.py">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/logistic_regression_algorithm/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
