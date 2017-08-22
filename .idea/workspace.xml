@@ -40,9 +40,11 @@
       <file leaf-file-name="keras_steps.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_steps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="286">
+              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <folding>
+                <element signature="e#66#84#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -711,9 +713,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_steps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="286">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="e#66#84#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
