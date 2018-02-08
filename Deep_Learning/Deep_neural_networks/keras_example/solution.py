@@ -1,7 +1,7 @@
 import numpy as np
 from keras.utils import np_utils
 import tensorflow as tf
-#tf.python.control_flow_ops = tf
+#tf.python.ops.control_flow_ops = tf
 
 # Set random seed
 np.random.seed(42)
@@ -21,16 +21,17 @@ y = np_utils.to_categorical(y)
 xor = Sequential()
 xor.add(Dense(32, input_dim=2))
 xor.add(Activation("sigmoid"))
+xor.add(Dense(64,activation='sigmoid'))
 xor.add(Dense(2))
 xor.add(Activation("sigmoid"))
 
 xor.compile(loss="categorical_crossentropy", optimizer="adam", metrics = ['accuracy'])
 
 # Uncomment this line to print the model architecture
-# xor.summary()
+xor.summary()
 
 # Fitting the model
-history = xor.fit(X, y, nb_epoch=1000, verbose=0)
+history = xor.fit(X, y, nb_epoch=600, verbose=0)
 
 # Scoring the model
 score = xor.evaluate(X, y)

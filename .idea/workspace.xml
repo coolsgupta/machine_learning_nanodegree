@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/keras_intro.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/solution.py" afterPath="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/solution.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,24 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            <state relative-caret-position="399">
+              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="keras_intro.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/keras_intro.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -64,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project_1/evaluation_metrics/precision_vs_recall.py" />
         <option value="$PROJECT_DIR$/project_1/evaluation_metrics/compute_F1_score.py" />
         <option value="$PROJECT_DIR$/project_1/evaluation_metrics/mean_absolute_error.py" />
         <option value="$PROJECT_DIR$/project_1/evaluation_metrics/mean_squared_error.py" />
@@ -114,6 +102,7 @@
         <option value="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras.py" />
         <option value="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/netwrok.py" />
         <option value="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/xor_using_keras.py" />
+        <option value="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/keras_intro.txt" />
         <option value="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/solution.py" />
       </list>
     </option>
@@ -357,7 +346,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -688,21 +679,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/solution.py">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/keras_intro.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1659">
+          <caret line="79" column="1" lean-forward="false" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/keras_intro.txt">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="399">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
