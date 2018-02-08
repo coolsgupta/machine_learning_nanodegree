@@ -1,0 +1,33 @@
+Optional Resources
+Read about the WaveNet model.
+
+Why train an A.I. to talk, when you can train it to sing ;)? In April 2017, researchers used a variant of the WaveNet model to generate songs. The original paper and demo can be found here.
+Learn about CNNs for text classification.
+
+You might like to sign up for the author's Deep Learning Newsletter!
+Read about Facebook's novel CNN approach for language translation that achieves state-of-the-art accuracy at nine times the speed of RNN models.
+
+Play Atari games with a CNN and reinforcement learning. You can download the code that comes with this paper.
+
+If you would like to play around with some beginner code (for deep reinforcement learning), you're encouraged to check out Andrej Karpathy's post.
+Play pictionary with a CNN!
+
+Also check out all of the other cool implementations on the A.I. Experiments website. Be sure not to miss AutoDraw!
+Read more about AlphaGo.
+
+Check out this article, which asks the question: If mastering Go “requires human intuition,” what is it like to have a piece of one’s humanity challenged?
+Check out these really cool videos with drones that are powered by CNNs.
+
+Here's an interview with a startup - Intelligent Flying Machines (IFM).
+Outdoor autonomous navigation is typically accomplished through the use of the global positioning system (GPS), but here's a demo with a CNN-powered autonomous drone.
+If you're excited about using CNNs in self-driving cars, you're encouraged to check out:
+
+our Self-Driving Car Engineer Nanodegree, where we classify signs in the German Traffic Sign dataset in this project.
+our Machine Learning Engineer Nanodegree, where we classify house numbers from the Street View House Numbers dataset in this project.
+this series of blog posts that details how to train a CNN in Python to produce a self-driving A.I. to play Grand Theft Auto V.
+Check out some additional applications not mentioned in the video.
+
+Some of the world's most famous paintings have been turned into 3D for the visually impaired. Although the article does not mention how this was done, we note that it is possible to use a CNN to predict depth from a single image.
+Check out this research that uses CNNs to localize breast cancer.
+CNNs are used to save endangered species!
+An app called FaceApp uses a CNN to make you smile in a picture or change genders.
