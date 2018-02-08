@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="keras_intro.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="keras_intro.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_introduction/keras_intro.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="327">
               <caret line="79" column="3" lean-forward="false" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MNIST_database_mini_project.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -63,8 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project_1/evaluation_metrics/mean_squared_error.py" />
-        <option value="$PROJECT_DIR$/project_1/error and complexity/noisy data" />
         <option value="$PROJECT_DIR$/project_1/error and complexity/quadratic_data.py" />
         <option value="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_1.py" />
         <option value="$PROJECT_DIR$/project_2/extracting_info_from_regressor" />
@@ -114,10 +123,12 @@
         <option value="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_example/solution.py" />
         <option value="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_introduction/important links.txt" />
         <option value="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_introduction/keras_intro.txt" />
+        <option value="$PROJECT_DIR$/Deep_Learning/CNN/applications.txt" />
+        <option value="$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="width" value="1932" />
     <option name="height" value="1038" />
@@ -157,14 +168,7 @@
               <item name="machine_learning_nanodegree" type="b2602c69:ProjectViewProjectNode" />
               <item name="machine_learning_nanodegree" type="462c0819:PsiDirectoryNode" />
               <item name="Deep_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep_neural_networks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="machine_learning_nanodegree" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machine_learning_nanodegree" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep_neural_networks" type="462c0819:PsiDirectoryNode" />
-              <item name="keras_introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -329,7 +333,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1932" height="1038" extended-state="1" />
+    <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22413793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -361,20 +365,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Supervised_Learning/regression/sleep_and_grades_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="49" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Supervised_Learning/regression/extracting_info_from_regressor">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Supervised_Learning/decison trees/checking_accuracy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -699,10 +689,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/applications.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="32" column="82" lean-forward="false" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_introduction/keras_intro.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="79" column="3" lean-forward="false" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
           <folding />
         </state>
       </provider>
