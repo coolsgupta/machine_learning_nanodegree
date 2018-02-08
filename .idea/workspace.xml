@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project using MLP/mnist.model.best.hdf5" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/cnn_visualization.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/intro to cnn using keras.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/max_pooling_example.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/MNIST_database_mini_project.py" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project using MLP/MNIST_database_mini_project.py" />
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/mnist.model.best.hdf5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/cnn_visualization.py" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/conv-dims.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,22 +18,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="cnn_visualization.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/cnn_visualization.py">
+      <file leaf-file-name="conv-dims.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/conv-dims.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="294">
+              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+              <folding>
+                <element signature="e#236#271#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="intro to cnn using keras.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/intro to cnn using keras.txt">
+      <file leaf-file-name="max_pooling_example.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/max_pooling_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="551">
+              <caret line="32" column="2" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,8 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project_2/polynomial_regression.py" />
-        <option value="$PROJECT_DIR$/project_2/decison trees/creating_DT_clf.py" />
         <option value="$PROJECT_DIR$/project_2/decison trees/checking_accuracy.py" />
         <option value="$PROJECT_DIR$/project_2/decison trees/different_min_samples_split.py" />
         <option value="$PROJECT_DIR$/project_2/neural networks mini poject/1" />
@@ -117,6 +116,8 @@
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/MNIST_database_mini_project.py" />
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/cnn_visualization.py" />
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/intro to cnn using keras.txt" />
+        <option value="$PROJECT_DIR$/Deep_Learning/CNN/conv-dims.py" />
+        <option value="$PROJECT_DIR$/Deep_Learning/CNN/max_pooling_example.py" />
       </list>
     </option>
   </component>
@@ -364,13 +365,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q9_XORnetwork.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="58" column="7" lean-forward="false" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Supervised_Learning/neural networks mini poject/Q12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -697,19 +691,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/cnn_visualization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/intro to cnn using keras.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
           <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/conv-dims.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="e#236#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/max_pooling_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="32" column="2" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
