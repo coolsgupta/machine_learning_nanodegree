@@ -24,7 +24,7 @@ strides - The vertical and horizontal stride. If you don't specify anything, str
 padding - One of 'valid' or 'same'. If you don't specify anything, padding is set to 'valid'.
 NOTE: It is possible to represent both pool_size and strides as either a number or a tuple.
 
-You are also encouraged to read the official documentation.
+You are also encouraged to read the official documentation: 'https://keras.io/layers/pooling/#maxpooling2d'
 
 Example
 Say I'm constructing a CNN, and I'd like to reduce the dimensionality of a convolutional layer by following it with a
