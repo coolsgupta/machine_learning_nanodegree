@@ -73,22 +73,19 @@ Note: In Keras 1, nb_epoch sets the number of epochs, but in Keras 2 this change
 Finally, we can use the following command to evaluate the model:
 
 model.evaluate()
-Pretty simple, right? Let's put it into practice.
 
-Quiz
-Let's start with the simplest example. In this quiz you will build a simple multi-layer feedforward neural network to
- solve the XOR problem.
 
-Set the first layer to a Dense() layer with an output width of 8 nodes and the input_dim set to the size of the
-training samples (in this case 2).
-Add a tanh activation function.
-Set the output layer width to 1, since the output has only two classes. (We can use 0 for one class an 1 for the other)
-Use a sigmoid activation function after the output layer.
-Run the model for 50 epochs.
-This should give you an accuracy of 50%. That's ok, but certainly not great. Out of 4 input points, we're correctly
-classifying only 2 of them. Let's try to change some parameters around to improve. For example, you can increase the
-number of epochs. You'll pass this quiz if you get 75% accuracy. Can you reach 100%?
+Keras Optimizers eg:
 
-To get started, review the Keras documentation about models and layers. The Keras example of a Multi-Layer Perceptron
-network is similar to what you need to do here. Use that as a guide, but keep in mind that there will be a number of
-differences.
+1. SGD
+This is Stochastic Gradient Descent. It uses the following parameters:
+Learning rate.
+Momentum (This takes the weighted average of the previous steps, in order to get a bit of momentum and go over bumps,
+as a way to not get stuck in local minima).
+Nesterov Momentum (This slows down the gradient when it's close to the solution).
+
+2. Adam
+Adam (Adaptive Moment Estimation) uses a more complicated exponential decay that consists of not just considering the average (first moment), but also the variance (second moment) of the previous steps.
+
+3. RMSProp
+RMSProp (RMS stands for Root Mean Squared Error) decreases the learning rate by dividing it by an exponentially decaying average of squared gradients.

@@ -1,0 +1,4 @@
+Keras optimizers:
+
+http://ruder.io/optimizing-gradient-descent/index.html#rmsprop
+https://keras.io/optimizers/
