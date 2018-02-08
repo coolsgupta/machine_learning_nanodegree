@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/important links.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/MNIST_database_mini_project.py" />
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/mnist.model.best.hdf5" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/mnist.model.best.hdf5" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,43 +18,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_introduction/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="keras_intro.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_introduction/keras_intro.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="79" column="3" lean-forward="false" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MNIST_database_mini_project.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MNIST_database_mini_project.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/MNIST_database_mini_project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+            <state relative-caret-position="362">
+              <caret line="57" column="63" lean-forward="false" selection-start-line="57" selection-start-column="63" selection-end-line="57" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xor_using_keras.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_introduction/xor_using_keras.py">
+      <file leaf-file-name="important links.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/important links.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="84">
+              <caret line="4" column="97" lean-forward="false" selection-start-line="4" selection-start-column="97" selection-end-line="4" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -75,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_1.py" />
         <option value="$PROJECT_DIR$/project_2/extracting_info_from_regressor" />
         <option value="$PROJECT_DIR$/project_2/sleep_and_grades_regression.py" />
         <option value="$PROJECT_DIR$/project_2/polynomial_regression.py" />
@@ -126,6 +103,7 @@
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/applications.txt" />
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py" />
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/MNIST_database_mini_project.py" />
+        <option value="$PROJECT_DIR$/Deep_Learning/CNN/important links.txt" />
       </list>
     </option>
   </component>
@@ -380,13 +358,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Supervised_Learning/decison trees/checking_accuracy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Supervised_Learning/decison trees/different_min_samples_split.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
@@ -722,8 +693,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/MNIST_database_mini_project.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+        <state relative-caret-position="362">
+          <caret line="57" column="63" lean-forward="false" selection-start-line="57" selection-start-column="63" selection-end-line="57" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/important links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="97" lean-forward="false" selection-start-line="4" selection-start-column="97" selection-end-line="4" selection-end-column="97" />
           <folding />
         </state>
       </provider>

@@ -1,0 +1,5 @@
+THE MNIST DATABASE of handwritten digits
+http://yann.lecun.com/exdb/mnist/
+
+how to do a more systematic hyperparameter search in your neural networks
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
