@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/MNIST_database_mini_project.py" />
+      <change beforePath="$PROJECT_DIR$/Deep_Learning/__init__.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,10 +41,10 @@
         </entry>
       </file>
       <file leaf-file-name="MNIST_database_mini_project.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/MNIST_database_mini_project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+            <state relative-caret-position="509">
+              <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -73,7 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project_1/error and complexity/quadratic_data.py" />
         <option value="$PROJECT_DIR$/project_1/numpy_and_pandas_tutorial/eg_1.py" />
         <option value="$PROJECT_DIR$/project_2/extracting_info_from_regressor" />
         <option value="$PROJECT_DIR$/project_2/sleep_and_grades_regression.py" />
@@ -124,6 +125,7 @@
         <option value="$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_introduction/keras_intro.txt" />
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/applications.txt" />
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py" />
+        <option value="$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/MNIST_database_mini_project.py" />
       </list>
     </option>
   </component>
@@ -169,6 +171,19 @@
               <item name="Deep_Learning" type="462c0819:PsiDirectoryNode" />
               <item name="CNN" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="machine_learning_nanodegree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning_nanodegree" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="MNIST mini project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machine_learning_nanodegree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning_nanodegree" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep_neural_networks" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -182,11 +197,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\programming\pycahrmProjects\machine_learning_nanodegree\Deep_Learning\CNN\MNIST mini project" />
       <recent name="D:\programming\pycahrmProjects\machine_learning_nanodegree\Deep_Learning\Deep_neural_networks" />
       <recent name="D:\programming\pycahrmProjects\machine_learning_nanodegree\Unsupervised_Learning" />
       <recent name="C:\Users\sachin\PycharmProjects\machine_learning_nanodegree\project_2" />
       <recent name="C:\Users\sachin\PycharmProjects\machine_learning_nanodegree\project_2\" />
-      <recent name="C:\Users\sachin\PycharmProjects\machine_learning_nanodegree\project_2\regression" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -705,10 +720,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/MNIST_database_mini_project.py">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project/MNIST_database_mini_project.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        <state relative-caret-position="509">
+          <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
           <folding />
         </state>
       </provider>
