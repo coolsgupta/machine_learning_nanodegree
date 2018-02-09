@@ -78,7 +78,7 @@ model.fit_generator(datagen_train.flow(x_train, y_train, batch_size=batch_size),
                     validation_steps=x_valid.shape[0] // batch_size)
 
 # load the weights that yielded the best validation accuracy
-model.load_weights('model.weights.best.hdf5')
+model.load_weights('aug_model.weights.best.hdf5')
 
 # evaluate and print test accuracy
 score = model.evaluate(x_test, y_test, verbose=0)

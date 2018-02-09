@@ -3,3 +3,11 @@ http://yann.lecun.com/exdb/mnist/
 
 how to do a more systematic hyperparameter search in your neural networks
 https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+
+https://blog.openai.com/adversarial-example-research/
+https://arxiv.org/abs/1611.03530
+https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html
+
+Visualizing and Understanding
+Convolutional Networks
+http://www.matthewzeiler.com/wp-content/uploads/2017/07/eccv2014.pdf
