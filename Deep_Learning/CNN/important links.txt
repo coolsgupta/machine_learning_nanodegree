@@ -11,3 +11,24 @@ https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html
 Visualizing and Understanding
 Convolutional Networks
 http://www.matthewzeiler.com/wp-content/uploads/2017/07/eccv2014.pdf
+
+deep visualization toolbox, which lets us visualize what each layer in a CNN focuses on
+https://www.youtube.com/watch?v=ghEmQSxT6tw
+
+this research paper that systematically analyzes the transferability of features learned in pre-trained CNNs.
+https://arxiv.org/pdf/1411.1792.pdf
+
+the Nature publication detailing Sebastian Thrun's cancer-detecting CNN!
+https://www.nature.com/articles/nature21056.epdf?referrer_access_token=_snzJ5POVSgpHutcNN4lEtRgN0jAjWel9jnR3ZoTv0NXpMHRAJy8Qn10ys2O4tuP9jVts1q2g1KBbk3Pd3AelZ36FalmvJLxw1ypYW0UxU7iShiMp86DmQ5Sh3wOBhXDm9idRXzicpVoBBhnUsXHzVUdYCPiVV0Slqf-Q25Ntb1SX_HAv3aFVSRgPbogozIHYQE3zSkyIghcAppAjrIkw1HtSwMvZ1PXrt6fVYXt-dvwXKEtdCN8qEHg0vbfl4_m&tracking_referrer=edition.cnn.com
+
+Here's the first research paper to propose GAP (Global Average Pooling) layers for object localization.
+http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf
+
+Check out this repository that uses a CNN for object localization.
+https://github.com/alexisbcook/ResNetCAM-keras
+
+Watch this video demonstration of object localization with a CNN.
+https://www.youtube.com/watch?v=fZvOy0VXWAI
+
+this repository that uses visualization techniques to better understand bottleneck features.
+https://github.com/alexisbcook/keras_transfer_cifar10
