@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/transfer learning.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/transfer_learning.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/transfer learning/transfer_learning_application_example.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/important links.txt" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/important links.txt" />
+      <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/transfer_learning.py" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/transfer learning/transfer_learning_implementation.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,58 +18,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="cifar10_mlp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/CIFAR_10 mini project/cifar10_mlp.py">
+      <file leaf-file-name="transfer_learning_application_example.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/transfer learning/transfer_learning_application_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="53" column="39" lean-forward="false" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+            <state relative-caret-position="567">
+              <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
               <folding>
-                <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#14#53#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cifar10_cnn.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/CIFAR_10 mini project/cifar10_cnn.py">
+      <file leaf-file-name="transfer_learning_implementation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/transfer learning/transfer_learning_implementation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="56" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="39" />
+            <state relative-caret-position="488">
+              <caret line="60" column="71" lean-forward="true" selection-start-line="60" selection-start-column="71" selection-end-line="60" selection-end-column="71" />
               <folding>
-                <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#538#591#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="example" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/Data Augmentation/example">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="important links.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/important links.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="transfer_learning.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/transfer_learning.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -90,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q9_XORnetwork.py" />
         <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q12.py" />
         <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q17_sigmoid_programming.py" />
         <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py" />
@@ -141,6 +107,7 @@
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/transfer learning.txt" />
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/important links.txt" />
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/transfer_learning.py" />
+        <option value="$PROJECT_DIR$/Deep_Learning/CNN/transfer learning/transfer_learning_implementation.py" />
       </list>
     </option>
   </component>
@@ -189,6 +156,13 @@
               <item name="machine_learning_nanodegree" type="b2602c69:ProjectViewProjectNode" />
               <item name="machine_learning_nanodegree" type="462c0819:PsiDirectoryNode" />
               <item name="Deep_Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="transfer learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machine_learning_nanodegree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning_nanodegree" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep_Learning" type="462c0819:PsiDirectoryNode" />
               <item name="Deep_neural_networks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -205,11 +179,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\programming\pycahrmProjects\machine_learning_nanodegree\Deep_Learning\CNN\transfer learning" />
       <recent name="D:\programming\pycahrmProjects\machine_learning_nanodegree\Deep_Learning\CNN\CNN example" />
       <recent name="D:\programming\pycahrmProjects\machine_learning_nanodegree\Deep_Learning\CNN\MNIST mini project" />
       <recent name="D:\programming\pycahrmProjects\machine_learning_nanodegree\Deep_Learning\Deep_neural_networks" />
       <recent name="D:\programming\pycahrmProjects\machine_learning_nanodegree\Unsupervised_Learning" />
-      <recent name="C:\Users\sachin\PycharmProjects\machine_learning_nanodegree\project_2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -388,13 +362,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/evaluation_metrics/ch_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Supervised_Learning/decison trees/creating_DT_clf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -676,43 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project using MLP/MNIST_database_mini_project.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/CIFAR_10 mini project/cifar10_mlp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="53" column="39" lean-forward="false" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/CIFAR_10 mini project/cifar10_cnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/Data Augmentation/example">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/transfer learning.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="579">
@@ -723,17 +653,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/important links.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="369">
+          <caret line="23" column="70" lean-forward="false" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/transfer_learning.py">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/Data Augmentation/example">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="215">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/CIFAR_10 mini project/cifar10_cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project using MLP/MNIST_database_mini_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/CIFAR_10 mini project/cifar10_mlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="53" column="39" lean-forward="false" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#12#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/transfer learning/transfer_learning_application_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+          <folding>
+            <element signature="e#14#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/transfer learning/transfer_learning_implementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="60" column="71" lean-forward="true" selection-start-line="60" selection-start-column="71" selection-end-line="60" selection-end-column="71" />
+          <folding>
+            <element signature="e#538#591#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
