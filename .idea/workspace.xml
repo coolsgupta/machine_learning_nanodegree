@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/dog_breed_classifier.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/important links.txt" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/important links.txt" />
+      <change beforePath="$PROJECT_DIR$/Deep_Learning/__init__.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +21,7 @@
       <file leaf-file-name="dog_breed_classifier.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deep_Learning/dog_breed_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="0">
               <caret line="15" column="43" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="15" selection-end-column="43" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -33,8 +33,18 @@
       <file leaf-file-name="important links.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/important links.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <state relative-caret-position="519">
+              <caret line="85" column="37" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="85" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applications.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/applications.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -599,13 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/applications.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="32" column="82" lean-forward="false" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_introduction/keras_intro.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -616,13 +619,6 @@
     <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/MNIST mini project using MLP/mnist.model.best.hdf5">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/intro to cnn using keras.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/conv-dims.py">
@@ -691,7 +687,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/dog_breed_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="0">
           <caret line="15" column="43" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="15" selection-end-column="43" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -717,10 +713,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/important links.txt">
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/intro to cnn using keras.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/applications.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/important links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="85" column="37" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="85" selection-end-column="37" />
           <folding />
         </state>
       </provider>

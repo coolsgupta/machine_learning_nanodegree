@@ -82,3 +82,5 @@ try out adam, it's usually a better choice as it's easier to configure and gives
 https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
 
 
+Playing Atari with Deep Reinforcement Learning
+https://arxiv.org/pdf/1312.5602v1.pdf
