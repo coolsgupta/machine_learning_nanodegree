@@ -32,3 +32,53 @@ https://www.youtube.com/watch?v=fZvOy0VXWAI
 
 this repository that uses visualization techniques to better understand bottleneck features.
 https://github.com/alexisbcook/keras_transfer_cifar10
+
+
+We no longer use pre-training (in most cases) and instead prefer Xaiver/Glorot initialization or MSRA initialization (sometimes called He et al. initialization from the paper,
+https://arxiv.org/abs/1502.01852
+
+Comparative Analysis between
+Inception-v3 and Other Learning
+Systems using Facial Expressions
+Detection
+http://dspace.bracu.ac.bd/xmlui/bitstream/handle/10361/6397/12201020%20%26%2016141024_CSE.pdf?sequence=1&isAllowed=y
+
+
+how to generate the bottleneck features yourself
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+
+you should be ready to take part in one of the playground competitions on Kaggle
+ https://www.kaggle.com/c/dog-breed-identification
+ https://www.kaggle.com/c/plant-seedlings-classification
+
+
+ This is a good resource discussing he rationale behind various basic CNN architectures:
+ http://cs231n.github.io/convolutional-networks/#architectures.
+
+
+add batch normalization before every convolutional or dense layer, this will normalize the features before every layer
+and will result in a faster training time and a boost in accuracy
+https://keras.io/layers/normalization/
+
+
+To get everything out of your network and data, the epochs should be chosen such that the validation accuracy is no
+longer increasing. You can do this manually or, better, use the early stopping callback function of Keras
+https://keras.io/getting-started/faq/#how-can-i-interrupt-training-when-the-validation-loss-isnt-decreasing-anymore
+
+
+To improve the accuracy further you can try to augment the training data
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+
+Currently ResNet and Xception are very popular networks producing state of the art results, see:
+ResNet (original) :  https://arxiv.org/abs/1512.03385
+WideResNet :  https://arxiv.org/abs/1605.07146
+SENet :  https://arxiv.org/abs/1709.01507
+Xception :  https://arxiv.org/abs/1610.02357
+
+
+try out adam, it's usually a better choice as it's easier to configure and gives superior results
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
+
+
