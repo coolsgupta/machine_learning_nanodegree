@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/important links.txt" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/important links.txt" />
-      <change beforePath="$PROJECT_DIR$/Deep_Learning/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Deep_Learning/CNN/CIFAR_10 mini project/MLP.weights.best.hdf5" afterPath="$PROJECT_DIR$/Deep_Learning/CNN/CIFAR_10 mini project/MLP.weights.best.hdf5" />
+      <change beforePath="$PROJECT_DIR$/reinforcement_learning/links.txt" afterPath="$PROJECT_DIR$/reinforcement_learning/links.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +21,7 @@
       <file leaf-file-name="dog_breed_classifier.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deep_Learning/dog_breed_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="294">
               <caret line="15" column="43" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="15" selection-end-column="43" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -30,11 +30,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="important links.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="important links.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/important links.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="85" column="37" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="85" selection-end-column="37" />
+            <state relative-caret-position="1575">
+              <caret line="75" column="36" lean-forward="false" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="links.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reinforcement_learning/links.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cifar10_mlp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/CIFAR_10 mini project/cifar10_mlp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="49" column="43" lean-forward="false" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -44,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/applications.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="54" />
+              <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -97,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project_2/neural networks mini poject/Q6.py" />
         <option value="$PROJECT_DIR$/project_2/SVM and Kernel methods/creating_a_classifier.py" />
         <option value="$PROJECT_DIR$/project_2/naive bayes/creating_the_GNB_clf.py" />
         <option value="$PROJECT_DIR$/project_2/naive bayes/bayes NLP mini project/maximum_likelihood" />
@@ -148,6 +167,7 @@
         <option value="$PROJECT_DIR$/Deep_Learning/dog_breed_classifier.py" />
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/transfer learning/transfer_learning_application_example.py" />
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/important links.txt" />
+        <option value="$PROJECT_DIR$/reinforcement_learning/links.txt" />
       </list>
     </option>
   </component>
@@ -174,6 +194,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,15 +211,12 @@
             <path>
               <item name="machine_learning_nanodegree" type="b2602c69:ProjectViewProjectNode" />
               <item name="machine_learning_nanodegree" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep_Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="CNN" type="462c0819:PsiDirectoryNode" />
+              <item name="reinforcement_learning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -362,13 +381,13 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22413793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24259056" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2508324" sideWeight="0.49583334" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -389,13 +408,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Supervised_Learning/naive bayes/bayes NLP mini project/optimal_classifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="64" column="18" lean-forward="false" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Supervised_Learning/naive bayes/bayes NLP mini project/maximum_likelihood">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -559,13 +571,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras.py" />
     <entry file="file://$PROJECT_DIR$/Deep_Learning/Deep_neural_networks/keras_steps.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -663,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/CIFAR_10 mini project/cifar10_mlp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="53" column="39" lean-forward="false" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Supervised_Learning/decison trees/creating_DT_clf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -687,7 +686,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/dog_breed_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="294">
           <caret line="15" column="43" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="15" selection-end-column="43" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
@@ -717,22 +716,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/applications.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="54" />
+          <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/important links.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="85" column="37" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="85" selection-end-column="37" />
+        <state relative-caret-position="1575">
+          <caret line="75" column="36" lean-forward="false" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/CNN/CIFAR_10 mini project/cifar10_mlp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="49" column="43" lean-forward="false" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reinforcement_learning/links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
           <folding />
         </state>
       </provider>

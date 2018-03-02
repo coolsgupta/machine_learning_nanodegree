@@ -3,3 +3,30 @@ Andrew Moore's slides on Zero-Sum Games
 
 Andrew Moore's slides on Non-Zero-Sum Games
 ->https://www.autonlab.org/tutorials/nonzerosum.html
+
+Deep Rinforcement Learning
+https://deepmind.com/blog/deep-reinforcement-learning/
+http://rll.berkeley.edu/deeprlcourse/
+https://medium.freecodecamp.org/deep-reinforcement-learning-where-to-start-291fb0058c01
+https://towardsdatascience.com/welcome-to-deep-reinforcement-learning-part-1-dqn-c3cab4d41b6b
+
+You can also complete a Monte Carlo simulation to calculate the general number of steps needed in order to visit the
+different possible states. You can also read about it in more detail here.
+https://engineering.ucsb.edu/~shell/che210d/Monte_Carlo.pdf
+http://www.pythonforfinance.net/2016/11/28/monte-carlo-simulation-in-python
+http://www.science.oregonstate.edu/~landaur/INSTANCES/WebModules/5_RandomWalk/RandomWalkFiles/Pdfs/RandomWalk.pdf
+
+some links for further reading (in particular, the last paper explores the relationship between the alpha used and the convergence rate):
+http://papers.nips.cc/paper/1944-convergence-of-optimistic-and-incremental-q-learning.pdf
+https://articles.wearepop.com/secret-formula-for-self-learning-computers
+http://ftp.bstu.by/ai/To-dom/My_research/Papers-2.1-done/RL/0/FinalReport.pdf
+http://www.jmlr.org/papers/volume5/evendar03a/evendar03a.pdf
+
+Algorithms for Reinforcement Learning
+https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf
+
+Deep Reinforcement Learning for Atari Game Tutankham
+https://web.stanford.edu/class/cs221/2017/restricted/p-final/hxiong2/final.pdf
+
+My first experience with deep reinforcement learning
+https://medium.com/ai-society/my-first-experience-with-deep-reinforcement-learning-1743594f0361
