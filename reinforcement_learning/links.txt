@@ -30,3 +30,9 @@ https://web.stanford.edu/class/cs221/2017/restricted/p-final/hxiong2/final.pdf
 
 My first experience with deep reinforcement learning
 https://medium.com/ai-society/my-first-experience-with-deep-reinforcement-learning-1743594f0361
+
+Deep Reinforcement Learning for Keras.
+https://github.com/matthiasplappert/keras-rl
+
+Deep Q-Learning with Keras and Gym
+https://keon.io/deep-q-learning/
