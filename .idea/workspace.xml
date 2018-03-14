@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b655b31f-ea3d-42c4-b34c-9c7433294431" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Deep_Learning/links.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/reinforcement_learning/links.txt" afterPath="$PROJECT_DIR$/reinforcement_learning/links.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,10 +42,10 @@
         </entry>
       </file>
       <file leaf-file-name="links.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/reinforcement_learning/links.txt">
+        <entry file="file://$PROJECT_DIR$/Deep_Learning/links.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="84">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -76,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project_2/SVM and Kernel methods/creating_a_classifier.py" />
         <option value="$PROJECT_DIR$/project_2/naive bayes/creating_the_GNB_clf.py" />
         <option value="$PROJECT_DIR$/project_2/naive bayes/bayes NLP mini project/maximum_likelihood" />
         <option value="$PROJECT_DIR$/project_2/naive bayes/bayes NLP mini project/optimal_classifier.py" />
@@ -127,6 +126,7 @@
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/transfer learning/transfer_learning_application_example.py" />
         <option value="$PROJECT_DIR$/Deep_Learning/CNN/important links.txt" />
         <option value="$PROJECT_DIR$/reinforcement_learning/links.txt" />
+        <option value="$PROJECT_DIR$/Deep_Learning/links.txt" />
       </list>
     </option>
   </component>
@@ -161,6 +161,11 @@
             <path>
               <item name="machine_learning_nanodegree" type="b2602c69:ProjectViewProjectNode" />
               <item name="machine_learning_nanodegree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="machine_learning_nanodegree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="machine_learning_nanodegree" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep_Learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="machine_learning_nanodegree" type="b2602c69:ProjectViewProjectNode" />
@@ -362,13 +367,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Supervised_Learning/naive bayes/bayes NLP mini project/maximum_likelihood">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="31" column="20" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Model_Evaluation_and_Validation/error and complexity/GridSeaarchCV.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="628">
@@ -696,7 +694,15 @@
     <entry file="file://$PROJECT_DIR$/reinforcement_learning/links.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <caret line="50" column="46" lean-forward="false" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep_Learning/links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>

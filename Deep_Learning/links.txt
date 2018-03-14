@@ -1,0 +1,5 @@
+Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+
+Understanding LSTM Networks
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
