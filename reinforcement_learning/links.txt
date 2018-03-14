@@ -36,3 +36,7 @@ https://github.com/matthiasplappert/keras-rl
 
 Deep Q-Learning with Keras and Gym
 https://keon.io/deep-q-learning/
+
+Exploring how differen​t ​state representations and configurations affect the
+learning process and outcome of deep Q-learning algorithms
+https://drive.google.com/file/d/0ByS4UcmN9nPZR3BIWUljNkd2MlE/view

@@ -84,3 +84,6 @@ https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning
 
 Playing Atari with Deep Reinforcement Learning
 https://arxiv.org/pdf/1312.5602v1.pdf
+
+extracting Bottleneck features
+https://stackoverflow.com/questions/47166191/extracting-bottleneck-features-using-pretrained-inceptionv3-differences-betwee?rq=1
