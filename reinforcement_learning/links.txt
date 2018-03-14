@@ -40,3 +40,7 @@ https://keon.io/deep-q-learning/
 Exploring how differen​t ​state representations and configurations affect the
 learning process and outcome of deep Q-learning algorithms
 https://drive.google.com/file/d/0ByS4UcmN9nPZR3BIWUljNkd2MlE/view
+
+Human-level control through deep reinforcement
+learning
+https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
