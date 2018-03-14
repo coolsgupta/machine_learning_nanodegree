@@ -48,3 +48,5 @@ https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
 Guest Post (Part I): Demystifying Deep Reinforcement Learning
 https://ai.intel.com/demystifying-deep-reinforcement-learning/
 
+Playing Atari with Deep Reinforcement Learning
+https://arxiv.org/pdf/1312.5602.pdf
